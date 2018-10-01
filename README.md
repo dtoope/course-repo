@@ -1,2 +1,2 @@
-# course-repo
+# datasciencecoursera
 education
